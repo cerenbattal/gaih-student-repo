@@ -12,5 +12,5 @@ Introduction to Python Course Student Homework Repo
 ---
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+![](95603997892008.png)
 
